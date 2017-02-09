@@ -2,5 +2,6 @@ build/
 dist/
 *.spec
 .DS_Store
+imageCaptureWin.py
 
 
